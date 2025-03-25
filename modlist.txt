@@ -1,0 +1,5 @@
+code:
+0195cbfe-64b9-ead0-5dce-481b4f854f9f
+
+changelog:
+-added stableFlashlight, pocketCartPlus, and moreCommands
